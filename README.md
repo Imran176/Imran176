@@ -1,7 +1,7 @@
 <!-- Intro Start -->
 <h1 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://github.com/Imran176/Imran176">Imran Haider</a></b><img src="wave.gif" width="30">
+                <b><a href="https://www.linkedin.com/in/imran-h-6b6734175/" target="_blank">Imran Haider</a></b><img src="wave.gif" width="30">
         </samp>
 </h1>
 <!-- Intro End -->
@@ -50,7 +50,7 @@
 
 <div>
 <!-- LinkedIn -->
-<a target="_blank"href="https://www.linkedin.com/in/imran-h-6b6734175/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/imran-h-6b6734175/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;
 <!-- Stakoverflow -->
 <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
 </div>
