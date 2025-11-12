@@ -11,10 +11,10 @@
 <!-- About Me Start  -->
 <h2> About Me <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">️</h2>
 
-- 👩🏻‍💻 Currently working as a Front End / React Js Developer @[Argon Tech](https://www.linkedin.com/company/argontech/)
-- 🧐 Interested in MERN Stack Development.
+- 👩🏻‍💻 Currently working as a MERN Stack Developer @[Softpyramid](https://www.linkedin.com/company/softpyramid/)
+- 🧐 Interested in Desktop and Mobile App Development.
 - 👯 Looking out for opportunities to collaborate with other Developers worldwide
-- 🌱 Learning aim : NextJs, Typescript, NestJs and NodeJs
+- 🌱 Learning aim : C#, ASP.NET
 - 🎯 Goal: Open Source projects Contribution
 - 📬 How to reach me: [Let's get in touch!](https://www.linkedin.com/in/imran-h-6b6734175/)
 <!-- About Me End  -->
